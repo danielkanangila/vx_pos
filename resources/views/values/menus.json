@@ -1,0 +1,108 @@
+{
+   "items": [
+       {
+           "name": "Report",
+           "icon": "fa fa-bar-chart-o",
+           "sub_menu": [
+                   {
+                      "name": "Daily sales report",
+                      "target": "u_sales_report"
+                   },
+                   {
+                     "name": "IMEI & SIMs report",
+                     "target": "u_imei_capture"
+                   },
+                   {
+                     "name": "Physical cash count",
+                     "target": "u_ph_cash_count"
+                   },
+                   {
+                     "name": "POD",
+                     "target": "u_pod"
+                   },
+                   {
+                     "name": "Projection and perfermance",
+                     "target": "u_performance"
+                   },
+                   {
+                     "name": "SIMs selling to street agent",
+                     "target": "u_stragt"
+                   },
+                   {
+                     "name": "Stock report",
+                     "target": "u_stock_report"
+                   },
+                   {
+                     "name": "Top selling device",
+                     "target": "u_t_selling_device"
+                   },
+                   {
+                     "name": "VOUCHER serial delivery",
+                     "target": "u_vouch_dlvr"
+                   }
+               ]
+       },
+       {
+           "name": "Sales",
+           "icon": "fa fa-money",
+           "sub_menu": [
+               {
+                  "name": "Order",
+                  "target": "u_order"
+               },
+               {
+                 "name": "Delivery",
+                 "target": "u_delivery"
+               },
+               {
+                 "name": "Invoice",
+                 "target": "u_invoice"
+               },
+               {
+                 "name": "Invoice list",
+                 "target": "u_invoice_list"
+               }
+           ]
+       },
+       {
+           "name": "Stock",
+           "icon": "fa fa-database",
+           "sub_menu": [
+               {
+                   "name": "Store product",
+                   "target": "u_store_product"
+               },
+               {
+                 "name": "Stock to shop",
+                 "target": "u_allocation"
+               },
+               {
+                 "name": "Stock Movements",
+                 "target": "u_stock_movement"
+               },
+               {
+                 "name": "Product list",
+                 "target": "u_product_list"
+               }
+           ]
+       },
+       {
+           "name": "Account",
+           "icon": "fa fa-users",
+           "sub_menu": [
+               {
+                 "name": "Account",
+                 "target": "u_account"
+               },
+               {
+                 "name": "Add Customer",
+                 "target": "u_add_account"
+               },
+               {
+                 "name": "Customers list",
+                 "target": "u_customers_list"
+               }
+           ]
+       }
+   ]
+}
